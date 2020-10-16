@@ -1,4 +1,4 @@
-.App {
+.Home {
   background-color: #282c34;
   min-height: 100vh;
   /* display: flex;
@@ -12,17 +12,4 @@
 .container {
   position: relative;
   width: max-content;
-}
-
-a {
-  color: inherit;
-}
-
-a:hover {
-  color: lightblue;
-}
-
-.tooltip-content {
-  display: flex;
-  flex-direction: column;
 }
